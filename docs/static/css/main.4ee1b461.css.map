@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4ee1b461.css","mappings":"AAAA,UAEK,wBAAyB,CADzB,UAEL,CAEA,OACK,cAAe,CACf,iBAAkB,CAClB,YACL","sources":["index.css"],"sourcesContent":["html, body {\r\n     color: white;\r\n     background-color: #21232A;\r\n}\r\n \r\nbutton {\r\n     font-size: 2rem;     \r\n     margin-right: 10px;\r\n     padding: 10px;\r\n}"],"names":[],"sourceRoot":""}
